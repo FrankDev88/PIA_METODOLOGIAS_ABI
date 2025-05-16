@@ -2,7 +2,7 @@
 import os
 import django
 
-os.environ.setdefault("DJANGO_SETTINGS_MODULE", "tu_proyecto.settings")  # 👈 reemplaza 'tu_proyecto' por el nombre real del settings.py
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "Restaurante.settings")  # 👈 reemplaza 'tu_proyecto' por el nombre real del settings.py
 django.setup()
 
 from django.contrib.auth import get_user_model
