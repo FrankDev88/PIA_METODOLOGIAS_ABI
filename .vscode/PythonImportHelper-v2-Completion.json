@@ -518,6 +518,23 @@
         "documentation": {}
     },
     {
+        "label": "django",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django",
+        "description": "django",
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_model",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
         "label": "sys",
         "kind": 6,
         "isExtraImport": true,
@@ -1019,6 +1036,15 @@
         "description": "users.models",
         "peekOfCode": "class CustomUser(AbstractUser):\n    CLIENT = 'client'\n    STAFF = 'staff'\n    ROLE_CHOICES = [\n        (CLIENT, 'Cliente'),\n        (STAFF, 'Staff'),\n    ]\n    email = models.EmailField(unique=True)\n    address = models.CharField(max_length=255, blank=True)\n    phone = models.CharField(max_length=15, blank=True)",
         "detail": "users.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 5,
+        "importPath": "create_superuser",
+        "description": "create_superuser",
+        "peekOfCode": "User = get_user_model()\nif not User.objects.filter(username=\"ABI\").exists():\n    User.objects.create_superuser(\n        username=\"ABI\",\n        password=\"GATITOS123\",\n        email=\"abi@example.com\",  # puedes cambiar el email si lo deseas\n        role=\"staff\"  # 👈 opcional, si quieres que tenga el rol de staff personalizado\n    )\n    print(\"Superuser 'ABI' creado con éxito.\")\nelse:",
+        "detail": "create_superuser",
         "documentation": {}
     },
     {
