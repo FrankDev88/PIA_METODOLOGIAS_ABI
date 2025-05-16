@@ -720,7 +720,7 @@
         "kind": 5,
         "importPath": "Restaurante.settings",
         "description": "Restaurante.settings",
-        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\nAUTH_USER_MODEL = 'users.CustomUser'\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = \"django-insecure-mybzt79la@twtwvv700b&jsc2cifqmp%*l4=_vuqx6cs+=ufw^\"\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\nAUTH_USER_MODEL = 'users.CustomUser'\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = \"django-insecure-mybzt79la@twtwvv700b&jsc2cifqmp%*l4=_vuqx6cs+=ufw^\"\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = ['localhost', '127.0.0.1', 'pia-metodologias-abi.onrender.com']\n# Application definition",
         "detail": "Restaurante.settings",
         "documentation": {}
     },
@@ -729,7 +729,7 @@
         "kind": 5,
         "importPath": "Restaurante.settings",
         "description": "Restaurante.settings",
-        "peekOfCode": "AUTH_USER_MODEL = 'users.CustomUser'\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = \"django-insecure-mybzt79la@twtwvv700b&jsc2cifqmp%*l4=_vuqx6cs+=ufw^\"\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "peekOfCode": "AUTH_USER_MODEL = 'users.CustomUser'\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = \"django-insecure-mybzt79la@twtwvv700b&jsc2cifqmp%*l4=_vuqx6cs+=ufw^\"\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = ['localhost', '127.0.0.1', 'pia-metodologias-abi.onrender.com']\n# Application definition\nINSTALLED_APPS = [",
         "detail": "Restaurante.settings",
         "documentation": {}
     },
@@ -738,7 +738,7 @@
         "kind": 5,
         "importPath": "Restaurante.settings",
         "description": "Restaurante.settings",
-        "peekOfCode": "SECRET_KEY = \"django-insecure-mybzt79la@twtwvv700b&jsc2cifqmp%*l4=_vuqx6cs+=ufw^\"\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    \"orders\",\n    \"jazzmin\",\n    \"cart\",\n    \"food\",",
+        "peekOfCode": "SECRET_KEY = \"django-insecure-mybzt79la@twtwvv700b&jsc2cifqmp%*l4=_vuqx6cs+=ufw^\"\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = ['localhost', '127.0.0.1', 'pia-metodologias-abi.onrender.com']\n# Application definition\nINSTALLED_APPS = [\n    \"orders\",\n    \"jazzmin\",\n    \"cart\",\n    \"food\",",
         "detail": "Restaurante.settings",
         "documentation": {}
     },
@@ -747,7 +747,7 @@
         "kind": 5,
         "importPath": "Restaurante.settings",
         "description": "Restaurante.settings",
-        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    \"orders\",\n    \"jazzmin\",\n    \"cart\",\n    \"food\",\n    \"users\",\n    \"django.contrib.admin\",",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = ['localhost', '127.0.0.1', 'pia-metodologias-abi.onrender.com']\n# Application definition\nINSTALLED_APPS = [\n    \"orders\",\n    \"jazzmin\",\n    \"cart\",\n    \"food\",\n    \"users\",\n    \"django.contrib.admin\",",
         "detail": "Restaurante.settings",
         "documentation": {}
     },
@@ -756,7 +756,7 @@
         "kind": 5,
         "importPath": "Restaurante.settings",
         "description": "Restaurante.settings",
-        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    \"orders\",\n    \"jazzmin\",\n    \"cart\",\n    \"food\",\n    \"users\",\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",",
+        "peekOfCode": "ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'pia-metodologias-abi.onrender.com']\n# Application definition\nINSTALLED_APPS = [\n    \"orders\",\n    \"jazzmin\",\n    \"cart\",\n    \"food\",\n    \"users\",\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",",
         "detail": "Restaurante.settings",
         "documentation": {}
     },
