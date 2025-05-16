@@ -863,7 +863,7 @@
         "kind": 5,
         "importPath": "Restaurante.settings",
         "description": "Restaurante.settings",
-        "peekOfCode": "DATABASES = {\n    'default': dj_database_url.config(\n        default=\"postgresql://postgres:xmYvWWnDCFOYlBzqpeBMxmaOQAlOJtIz@postgres.railway.internal:5432/railway\"\n    )\n}\nCSRF_TRUSTED_ORIGINS = [\n    \"https://piametodologiasabi-production.up.railway.app\"\n]\n# Password validation\n# https://docs.djangoproject.com/en/5.2/ref/settings/#auth-password-validators",
+        "peekOfCode": "DATABASES = {\n    'default': dj_database_url.config(\n        default=os.getenv('DATABASE_URL')\n    )\n}\nCSRF_TRUSTED_ORIGINS = [\n    \"https://piametodologiasabi-production.up.railway.app\"\n]\n# Password validation\n# https://docs.djangoproject.com/en/5.2/ref/settings/#auth-password-validators",
         "detail": "Restaurante.settings",
         "documentation": {}
     },
