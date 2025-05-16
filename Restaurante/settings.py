@@ -111,7 +111,11 @@ import dj_database_url  # asegúrate de tenerlo instalado
 
 DATABASES = {
     'default': dj_database_url.config(
-        default=os.getenv('DATABASE_URL')
+        default="postgresql://postgres:xmYvWWnDCFOYlBzqpeBMxmaOQAlOJtIz@postgres.railway.internal:5432/railway"
+
+
+
+
     )
 }
 
