@@ -1,0 +1,1015 @@
+[
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Decimal",
+        "importPath": "decimal",
+        "description": "decimal",
+        "isExtraImport": true,
+        "detail": "decimal",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "FoodItem",
+        "importPath": "food.models",
+        "description": "food.models",
+        "isExtraImport": true,
+        "detail": "food.models",
+        "documentation": {}
+    },
+    {
+        "label": "FoodItem",
+        "importPath": "food.models",
+        "description": "food.models",
+        "isExtraImport": true,
+        "detail": "food.models",
+        "documentation": {}
+    },
+    {
+        "label": "FoodItem",
+        "importPath": "food.models",
+        "description": "food.models",
+        "isExtraImport": true,
+        "detail": "food.models",
+        "documentation": {}
+    },
+    {
+        "label": "FoodItem",
+        "importPath": "food.models",
+        "description": "food.models",
+        "isExtraImport": true,
+        "detail": "food.models",
+        "documentation": {}
+    },
+    {
+        "label": "FoodItem",
+        "importPath": "food.models",
+        "description": "food.models",
+        "isExtraImport": true,
+        "detail": "food.models",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "require_POST",
+        "importPath": "django.views.decorators.http",
+        "description": "django.views.decorators.http",
+        "isExtraImport": true,
+        "detail": "django.views.decorators.http",
+        "documentation": {}
+    },
+    {
+        "label": "JsonResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "JsonResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "TemplateView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "django.contrib.auth.models",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractUser",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "django.contrib.auth.validators",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.contrib.auth.validators",
+        "description": "django.contrib.auth.validators",
+        "detail": "django.contrib.auth.validators",
+        "documentation": {}
+    },
+    {
+        "label": "django.utils.timezone",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.utils.timezone",
+        "description": "django.utils.timezone",
+        "detail": "django.utils.timezone",
+        "documentation": {}
+    },
+    {
+        "label": "UserAdmin",
+        "importPath": "django.contrib.auth.admin",
+        "description": "django.contrib.auth.admin",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.admin",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "CartConfig",
+        "kind": 6,
+        "importPath": "cart.apps",
+        "description": "cart.apps",
+        "peekOfCode": "class CartConfig(AppConfig):\n    default_auto_field = \"django.db.models.BigAutoField\"\n    name = \"cart\"",
+        "detail": "cart.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Cart",
+        "kind": 6,
+        "importPath": "cart.cart",
+        "description": "cart.cart",
+        "peekOfCode": "class Cart:\n    \"\"\"\n    Gestión de carrito en sesión\n    \"\"\"\n    def __init__(self, request):\n        self.session = request.session\n        cart = self.session.get(settings.CART_SESSION_ID)\n        if not cart:\n            cart = self.session[settings.CART_SESSION_ID] = {}\n        self.cart = cart",
+        "detail": "cart.cart",
+        "documentation": {}
+    },
+    {
+        "label": "cart_counter",
+        "kind": 2,
+        "importPath": "cart.context_processors",
+        "description": "cart.context_processors",
+        "peekOfCode": "def cart_counter(request):\n    cart = Cart(request)\n    return {'cart_items_count': len(cart)}",
+        "detail": "cart.context_processors",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "cart.urls",
+        "description": "cart.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', cart_detail, name='cart_detail'),\n    path('add/<int:product_id>/', cart_add, name='cart_add'),\n    path('remove/<int:product_id>/', cart_remove, name='cart_remove'),\n    path('checkout/', checkout, name='checkout'),\n]",
+        "detail": "cart.urls",
+        "documentation": {}
+    },
+    {
+        "label": "cart_add",
+        "kind": 2,
+        "importPath": "cart.views",
+        "description": "cart.views",
+        "peekOfCode": "def cart_add(request, product_id):\n    cart = Cart(request)\n    product = get_object_or_404(FoodItem, id=product_id)\n    cart.add(product=product, quantity=1)\n    if request.headers.get('x-requested-with') == 'XMLHttpRequest':\n        return JsonResponse({'cart_items_count': len(cart)})\n    return redirect('cart_detail')\n@require_POST\ndef cart_remove(request, product_id):\n    cart = Cart(request)",
+        "detail": "cart.views",
+        "documentation": {}
+    },
+    {
+        "label": "cart_remove",
+        "kind": 2,
+        "importPath": "cart.views",
+        "description": "cart.views",
+        "peekOfCode": "def cart_remove(request, product_id):\n    cart = Cart(request)\n    product = get_object_or_404(FoodItem, id=product_id)\n    cart.remove(product)\n    return redirect('cart_detail')\nfrom django.shortcuts import render, get_object_or_404\nfrom .cart import Cart\nfrom food.models import FoodItem\ndef cart_detail(request):\n    cart = Cart(request)",
+        "detail": "cart.views",
+        "documentation": {}
+    },
+    {
+        "label": "cart_detail",
+        "kind": 2,
+        "importPath": "cart.views",
+        "description": "cart.views",
+        "peekOfCode": "def cart_detail(request):\n    cart = Cart(request)\n    cart_items = []\n    # Los IDs de los productos en el carrito\n    product_ids = cart.cart.keys()\n    # Consulta todos los productos de la base de datos cuyos IDs estén en el carrito\n    products = FoodItem.objects.filter(id__in=product_ids)\n    for product in products:\n        quantity = cart.cart[str(product.id)]['quantity']\n        total_price = float(product.price) * quantity",
+        "detail": "cart.views",
+        "documentation": {}
+    },
+    {
+        "label": "cart_update_quantity",
+        "kind": 2,
+        "importPath": "cart.views",
+        "description": "cart.views",
+        "peekOfCode": "def cart_update_quantity(request, product_id):\n    cart = Cart(request)\n    product = get_object_or_404(FoodItem, id=product_id)\n    try:\n        quantity = int(request.POST.get('quantity', 1))\n    except ValueError:\n        quantity = 1\n    if quantity > 0:\n        cart.add(product=product, quantity=quantity, update_quantity=True)\n    else:",
+        "detail": "cart.views",
+        "documentation": {}
+    },
+    {
+        "label": "checkout",
+        "kind": 2,
+        "importPath": "cart.views",
+        "description": "cart.views",
+        "peekOfCode": "def checkout(request):\n    if request.method == 'POST':\n        # Vaciar carrito\n        request.session['cart'] = {}\n        # Retornar JSON de éxito\n        return JsonResponse({'success': True})",
+        "detail": "cart.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "food.migrations.0001_initial",
+        "description": "food.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = []\n    operations = [\n        migrations.CreateModel(\n            name=\"FoodCategory\",\n            fields=[\n                (\n                    \"id\",\n                    models.BigAutoField(",
+        "detail": "food.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "FoodItemAdmin",
+        "kind": 6,
+        "importPath": "food.admin",
+        "description": "food.admin",
+        "peekOfCode": "class FoodItemAdmin(admin.ModelAdmin):\n    list_display = ('name', 'category', 'price', 'available', 'created_at')  # Campos a mostrar\n    list_filter = ('category', 'available')  # Filtros\n    search_fields = ('name', 'category__name')  # Búsqueda por nombre y categoría\n    ordering = ('created_at',)  # Ordenar por fecha de creación\nclass FoodCategoryAdmin(admin.ModelAdmin):\n    list_display = ('name',)  # Campos a mostrar\n    search_fields = ('name',)  # Búsqueda por nombre\n    ordering = ('name',)  # Ordenar por nombre\nadmin.site.register(FoodCategory, FoodCategoryAdmin)",
+        "detail": "food.admin",
+        "documentation": {}
+    },
+    {
+        "label": "FoodCategoryAdmin",
+        "kind": 6,
+        "importPath": "food.admin",
+        "description": "food.admin",
+        "peekOfCode": "class FoodCategoryAdmin(admin.ModelAdmin):\n    list_display = ('name',)  # Campos a mostrar\n    search_fields = ('name',)  # Búsqueda por nombre\n    ordering = ('name',)  # Ordenar por nombre\nadmin.site.register(FoodCategory, FoodCategoryAdmin)\nadmin.site.register(FoodItem, FoodItemAdmin)",
+        "detail": "food.admin",
+        "documentation": {}
+    },
+    {
+        "label": "FoodConfig",
+        "kind": 6,
+        "importPath": "food.apps",
+        "description": "food.apps",
+        "peekOfCode": "class FoodConfig(AppConfig):\n    default_auto_field = \"django.db.models.BigAutoField\"\n    name = \"food\"",
+        "detail": "food.apps",
+        "documentation": {}
+    },
+    {
+        "label": "FoodCategory",
+        "kind": 6,
+        "importPath": "food.models",
+        "description": "food.models",
+        "peekOfCode": "class FoodCategory(models.Model):\n    name = models.CharField(max_length=100)\n    def __str__(self):\n        return self.name\nclass FoodItem(models.Model):\n    name = models.CharField(max_length=100)\n    description = models.TextField(blank=True)\n    price = models.DecimalField(max_digits=6, decimal_places=2)\n    available = models.BooleanField(default=True)\n    image = models.ImageField(upload_to='food_images/', blank=True, null=True)",
+        "detail": "food.models",
+        "documentation": {}
+    },
+    {
+        "label": "FoodItem",
+        "kind": 6,
+        "importPath": "food.models",
+        "description": "food.models",
+        "peekOfCode": "class FoodItem(models.Model):\n    name = models.CharField(max_length=100)\n    description = models.TextField(blank=True)\n    price = models.DecimalField(max_digits=6, decimal_places=2)\n    available = models.BooleanField(default=True)\n    image = models.ImageField(upload_to='food_images/', blank=True, null=True)\n    category = models.ForeignKey(FoodCategory, on_delete=models.SET_NULL, null=True, related_name='food_items')\n    created_at = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return self.name",
+        "detail": "food.models",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "orders.migrations.0001_initial",
+        "description": "orders.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        (\"food\", \"0001_initial\"),\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name=\"Transaction\",\n            fields=[",
+        "detail": "orders.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "TransactionItemInline",
+        "kind": 6,
+        "importPath": "orders.admin",
+        "description": "orders.admin",
+        "peekOfCode": "class TransactionItemInline(admin.TabularInline):\n    model = TransactionItem\n    extra = 1  # uno vacío por defecto\n    fields = ('food_item', 'quantity', 'subtotal')\n    readonly_fields = ('subtotal',)\n    def get_readonly_fields(self, request, obj=None):\n        # subtotal solo es editable en objetos ya guardados\n        if obj:\n            return self.readonly_fields\n        return ()",
+        "detail": "orders.admin",
+        "documentation": {}
+    },
+    {
+        "label": "TransactionAdmin",
+        "kind": 6,
+        "importPath": "orders.admin",
+        "description": "orders.admin",
+        "peekOfCode": "class TransactionAdmin(admin.ModelAdmin):\n    list_display = ('id', 'user', 'total', 'status', 'created_at')\n    list_filter = ('status', 'created_at')\n    search_fields = ('user__username', 'user__email')\n    date_hierarchy = 'created_at'\n    inlines = [TransactionItemInline]\n    readonly_fields = ('total',)\n    actions = ['export_as_csv']\n    def export_as_csv(self, request, queryset):\n        import csv",
+        "detail": "orders.admin",
+        "documentation": {}
+    },
+    {
+        "label": "OrdersConfig",
+        "kind": 6,
+        "importPath": "orders.apps",
+        "description": "orders.apps",
+        "peekOfCode": "class OrdersConfig(AppConfig):\n    default_auto_field = \"django.db.models.BigAutoField\"\n    name = \"orders\"",
+        "detail": "orders.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Transaction",
+        "kind": 6,
+        "importPath": "orders.models",
+        "description": "orders.models",
+        "peekOfCode": "class Transaction(models.Model):\n    STATUS_CHOICES = [\n        ('pending', 'Pendiente'),\n        ('paid', 'Pagado'),\n        ('cancelled', 'Cancelado'),\n    ]\n    user = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE, related_name='transactions')\n    total = models.DecimalField(max_digits=8, decimal_places=2)\n    status = models.CharField(max_length=10, choices=STATUS_CHOICES, default='pending')\n    created_at = models.DateTimeField(auto_now_add=True)",
+        "detail": "orders.models",
+        "documentation": {}
+    },
+    {
+        "label": "TransactionItem",
+        "kind": 6,
+        "importPath": "orders.models",
+        "description": "orders.models",
+        "peekOfCode": "class TransactionItem(models.Model):\n    transaction = models.ForeignKey(Transaction, on_delete=models.CASCADE, related_name='items')\n    food_item = models.ForeignKey(FoodItem, on_delete=models.CASCADE)\n    quantity = models.PositiveIntegerField(default=1)\n    subtotal = models.DecimalField(max_digits=8, decimal_places=2)\n    def __str__(self):\n        return f'{self.quantity} x {self.food_item.name}'",
+        "detail": "orders.models",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "Restaurante.asgi",
+        "description": "Restaurante.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "Restaurante.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "Restaurante.settings",
+        "description": "Restaurante.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\nAUTH_USER_MODEL = 'users.CustomUser'\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = \"django-insecure-mybzt79la@twtwvv700b&jsc2cifqmp%*l4=_vuqx6cs+=ufw^\"\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition",
+        "detail": "Restaurante.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_USER_MODEL",
+        "kind": 5,
+        "importPath": "Restaurante.settings",
+        "description": "Restaurante.settings",
+        "peekOfCode": "AUTH_USER_MODEL = 'users.CustomUser'\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = \"django-insecure-mybzt79la@twtwvv700b&jsc2cifqmp%*l4=_vuqx6cs+=ufw^\"\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "Restaurante.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "Restaurante.settings",
+        "description": "Restaurante.settings",
+        "peekOfCode": "SECRET_KEY = \"django-insecure-mybzt79la@twtwvv700b&jsc2cifqmp%*l4=_vuqx6cs+=ufw^\"\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    \"orders\",\n    \"jazzmin\",\n    \"cart\",\n    \"food\",",
+        "detail": "Restaurante.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "Restaurante.settings",
+        "description": "Restaurante.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    \"orders\",\n    \"jazzmin\",\n    \"cart\",\n    \"food\",\n    \"users\",\n    \"django.contrib.admin\",",
+        "detail": "Restaurante.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "Restaurante.settings",
+        "description": "Restaurante.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    \"orders\",\n    \"jazzmin\",\n    \"cart\",\n    \"food\",\n    \"users\",\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",",
+        "detail": "Restaurante.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "Restaurante.settings",
+        "description": "Restaurante.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    \"orders\",\n    \"jazzmin\",\n    \"cart\",\n    \"food\",\n    \"users\",\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",",
+        "detail": "Restaurante.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "Restaurante.settings",
+        "description": "Restaurante.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    \"django.middleware.security.SecurityMiddleware\",\n    \"django.contrib.sessions.middleware.SessionMiddleware\",\n    \"django.middleware.common.CommonMiddleware\",\n    \"django.middleware.csrf.CsrfViewMiddleware\",\n    \"django.contrib.auth.middleware.AuthenticationMiddleware\",\n    \"django.contrib.messages.middleware.MessageMiddleware\",\n    \"django.middleware.clickjacking.XFrameOptionsMiddleware\",\n]\nROOT_URLCONF = \"Restaurante.urls\"",
+        "detail": "Restaurante.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "Restaurante.settings",
+        "description": "Restaurante.settings",
+        "peekOfCode": "ROOT_URLCONF = \"Restaurante.urls\"\nCART_SESSION_ID = 'cart'\nfrom pathlib import Path\nBASE_DIR = Path(__file__).resolve().parent.parent\nTEMPLATES = [\n    {\n        \"BACKEND\": \"django.template.backends.django.DjangoTemplates\",\n        \"DIRS\": [BASE_DIR / \"templates\"],  # 👈 AÑADIR ESTO\n        \"APP_DIRS\": True,\n        \"OPTIONS\": {",
+        "detail": "Restaurante.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CART_SESSION_ID",
+        "kind": 5,
+        "importPath": "Restaurante.settings",
+        "description": "Restaurante.settings",
+        "peekOfCode": "CART_SESSION_ID = 'cart'\nfrom pathlib import Path\nBASE_DIR = Path(__file__).resolve().parent.parent\nTEMPLATES = [\n    {\n        \"BACKEND\": \"django.template.backends.django.DjangoTemplates\",\n        \"DIRS\": [BASE_DIR / \"templates\"],  # 👈 AÑADIR ESTO\n        \"APP_DIRS\": True,\n        \"OPTIONS\": {\n            \"context_processors\": [",
+        "detail": "Restaurante.settings",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "Restaurante.settings",
+        "description": "Restaurante.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\nTEMPLATES = [\n    {\n        \"BACKEND\": \"django.template.backends.django.DjangoTemplates\",\n        \"DIRS\": [BASE_DIR / \"templates\"],  # 👈 AÑADIR ESTO\n        \"APP_DIRS\": True,\n        \"OPTIONS\": {\n            \"context_processors\": [\n                \"django.template.context_processors.request\",\n                \"django.contrib.auth.context_processors.auth\",",
+        "detail": "Restaurante.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "Restaurante.settings",
+        "description": "Restaurante.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        \"BACKEND\": \"django.template.backends.django.DjangoTemplates\",\n        \"DIRS\": [BASE_DIR / \"templates\"],  # 👈 AÑADIR ESTO\n        \"APP_DIRS\": True,\n        \"OPTIONS\": {\n            \"context_processors\": [\n                \"django.template.context_processors.request\",\n                \"django.contrib.auth.context_processors.auth\",\n                \"django.contrib.messages.context_processors.messages\",",
+        "detail": "Restaurante.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "Restaurante.settings",
+        "description": "Restaurante.settings",
+        "peekOfCode": "WSGI_APPLICATION = \"Restaurante.wsgi.application\"\n# Database\n# https://docs.djangoproject.com/en/5.2/ref/settings/#databases\n\"\"\"\n# settings.py\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.postgresql',\n        'NAME': 'nombre_de_tu_base',  # Debe coincidir con el valor de POSTGRES_DB\n        'USER': 'tu_usuario',         # Debe coincidir con el valor de POSTGRES_USER",
+        "detail": "Restaurante.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "Restaurante.settings",
+        "description": "Restaurante.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.postgresql',\n        'NAME': 'nombre_de_tu_base',  # Debe coincidir con el valor de POSTGRES_DB\n        'USER': 'tu_usuario',         # Debe coincidir con el valor de POSTGRES_USER\n        'PASSWORD': 'tu_contraseña',  # Debe coincidir con el valor de POSTGRES_PASSWORD\n        'HOST': 'db',                 # Nombre del servicio de la base de datos (es 'db' en el archivo docker-compose)\n        'PORT': '5432',               # Puerto por defecto de PostgreSQL\n    }\n}",
+        "detail": "Restaurante.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "Restaurante.settings",
+        "description": "Restaurante.settings",
+        "peekOfCode": "DATABASES = {\n        'default': {\n            'ENGINE': 'django.db.backends.sqlite3',\n            'NAME': BASE_DIR / 'db.sqlite3',\n        }\n    }\n# Password validation\n# https://docs.djangoproject.com/en/5.2/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "Restaurante.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "Restaurante.settings",
+        "description": "Restaurante.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.UserAttributeSimilarityValidator\",\n    },\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.MinimumLengthValidator\",\n    },\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.CommonPasswordValidator\",\n    },",
+        "detail": "Restaurante.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "Restaurante.settings",
+        "description": "Restaurante.settings",
+        "peekOfCode": "LANGUAGE_CODE = \"en-us\"\nTIME_ZONE = \"UTC\"\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.2/howto/static-files/\n# Archivos estáticos (CSS, JS, etc.)\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [os.path.join(BASE_DIR, 'static')]\n# settings.py",
+        "detail": "Restaurante.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "Restaurante.settings",
+        "description": "Restaurante.settings",
+        "peekOfCode": "TIME_ZONE = \"UTC\"\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.2/howto/static-files/\n# Archivos estáticos (CSS, JS, etc.)\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [os.path.join(BASE_DIR, 'static')]\n# settings.py\n# Archivos multimedia (imagenes subidas por los usuarios)",
+        "detail": "Restaurante.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "Restaurante.settings",
+        "description": "Restaurante.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.2/howto/static-files/\n# Archivos estáticos (CSS, JS, etc.)\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [os.path.join(BASE_DIR, 'static')]\n# settings.py\n# Archivos multimedia (imagenes subidas por los usuarios)\nMEDIA_URL = '/media/'",
+        "detail": "Restaurante.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "Restaurante.settings",
+        "description": "Restaurante.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.2/howto/static-files/\n# Archivos estáticos (CSS, JS, etc.)\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [os.path.join(BASE_DIR, 'static')]\n# settings.py\n# Archivos multimedia (imagenes subidas por los usuarios)\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')",
+        "detail": "Restaurante.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "Restaurante.settings",
+        "description": "Restaurante.settings",
+        "peekOfCode": "STATIC_URL = '/static/'\nSTATICFILES_DIRS = [os.path.join(BASE_DIR, 'static')]\n# settings.py\n# Archivos multimedia (imagenes subidas por los usuarios)\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"\nJAZZMIN_SETTINGS = {",
+        "detail": "Restaurante.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATICFILES_DIRS",
+        "kind": 5,
+        "importPath": "Restaurante.settings",
+        "description": "Restaurante.settings",
+        "peekOfCode": "STATICFILES_DIRS = [os.path.join(BASE_DIR, 'static')]\n# settings.py\n# Archivos multimedia (imagenes subidas por los usuarios)\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"\nJAZZMIN_SETTINGS = {\n    \"site_title\": \"Admin Jaibito\",",
+        "detail": "Restaurante.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "Restaurante.settings",
+        "description": "Restaurante.settings",
+        "peekOfCode": "MEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"\nJAZZMIN_SETTINGS = {\n    \"site_title\": \"Admin Jaibito\",\n    \"site_header\": \"Panel de Administración\",\n    \"site_brand\": \"Jaibito Seafood\",\n    \"theme\": \"darkly\",   # colores (usa los themes de Bootswatch)",
+        "detail": "Restaurante.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_ROOT",
+        "kind": 5,
+        "importPath": "Restaurante.settings",
+        "description": "Restaurante.settings",
+        "peekOfCode": "MEDIA_ROOT = os.path.join(BASE_DIR, 'media')\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"\nJAZZMIN_SETTINGS = {\n    \"site_title\": \"Admin Jaibito\",\n    \"site_header\": \"Panel de Administración\",\n    \"site_brand\": \"Jaibito Seafood\",\n    \"theme\": \"darkly\",   # colores (usa los themes de Bootswatch)\n    # ...ver docs para más opciones",
+        "detail": "Restaurante.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "Restaurante.settings",
+        "description": "Restaurante.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"\nJAZZMIN_SETTINGS = {\n    \"site_title\": \"Admin Jaibito\",\n    \"site_header\": \"Panel de Administración\",\n    \"site_brand\": \"Jaibito Seafood\",\n    \"theme\": \"darkly\",   # colores (usa los themes de Bootswatch)\n    # ...ver docs para más opciones\n}",
+        "detail": "Restaurante.settings",
+        "documentation": {}
+    },
+    {
+        "label": "JAZZMIN_SETTINGS",
+        "kind": 5,
+        "importPath": "Restaurante.settings",
+        "description": "Restaurante.settings",
+        "peekOfCode": "JAZZMIN_SETTINGS = {\n    \"site_title\": \"Admin Jaibito\",\n    \"site_header\": \"Panel de Administración\",\n    \"site_brand\": \"Jaibito Seafood\",\n    \"theme\": \"darkly\",   # colores (usa los themes de Bootswatch)\n    # ...ver docs para más opciones\n}",
+        "detail": "Restaurante.settings",
+        "documentation": {}
+    },
+    {
+        "label": "IndexView",
+        "kind": 6,
+        "importPath": "Restaurante.urls",
+        "description": "Restaurante.urls",
+        "peekOfCode": "class IndexView(TemplateView):\n    template_name = \"index.html\"\n    def get_context_data(self, **kwargs):\n        context = super().get_context_data(**kwargs)\n        context['food_items'] = FoodItem.objects.all()\n        return context\nurlpatterns = [\n    path(\"admin/\", admin.site.urls),\n    path(\"\",IndexView.as_view(), name=\"index\"),\n    path('cart/', include('cart.urls')),",
+        "detail": "Restaurante.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "Restaurante.urls",
+        "description": "Restaurante.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"admin/\", admin.site.urls),\n    path(\"\",IndexView.as_view(), name=\"index\"),\n    path('cart/', include('cart.urls')),\n]\n#Solo en modo desarrollo\nif settings.DEBUG:\n    urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)\n    urlpatterns += static(settings.STATIC_URL, document_root=settings.STATICFILES_DIRS[0])",
+        "detail": "Restaurante.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "Restaurante.wsgi",
+        "description": "Restaurante.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "Restaurante.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "users.migrations.0001_initial",
+        "description": "users.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        (\"auth\", \"0012_alter_user_first_name_max_length\"),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name=\"CustomUser\",\n            fields=[\n                (",
+        "detail": "users.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "CustomUserAdmin",
+        "kind": 6,
+        "importPath": "users.admin",
+        "description": "users.admin",
+        "peekOfCode": "class CustomUserAdmin(UserAdmin):\n    model = CustomUser\n    list_display = ('username', 'email', 'role', 'is_staff', 'is_active')  # Muestra las columnas que quieras\n    list_filter = ('role', 'is_staff', 'is_active')  # Filtros para el panel de admin\n    search_fields = ('username', 'email')  # Campos para buscar\n    ordering = ('username',)  # Orden por el campo 'username'\n    # Los campos que se verán al crear/editar un usuario\n    fieldsets = (\n        (None, {'fields': ('username', 'password')}),\n        ('Información personal', {'fields': ('first_name', 'last_name', 'email', 'address', 'phone')}),",
+        "detail": "users.admin",
+        "documentation": {}
+    },
+    {
+        "label": "UsersConfig",
+        "kind": 6,
+        "importPath": "users.apps",
+        "description": "users.apps",
+        "peekOfCode": "class UsersConfig(AppConfig):\n    default_auto_field = \"django.db.models.BigAutoField\"\n    name = \"users\"",
+        "detail": "users.apps",
+        "documentation": {}
+    },
+    {
+        "label": "CustomUser",
+        "kind": 6,
+        "importPath": "users.models",
+        "description": "users.models",
+        "peekOfCode": "class CustomUser(AbstractUser):\n    CLIENT = 'client'\n    STAFF = 'staff'\n    ROLE_CHOICES = [\n        (CLIENT, 'Cliente'),\n        (STAFF, 'Staff'),\n    ]\n    email = models.EmailField(unique=True)\n    address = models.CharField(max_length=255, blank=True)\n    phone = models.CharField(max_length=15, blank=True)",
+        "detail": "users.models",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault(\"DJANGO_SETTINGS_MODULE\", \"Restaurante.settings\")\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]

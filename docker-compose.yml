@@ -1,0 +1,28 @@
+version: '3.8'
+
+services:
+  # Servicio para PostgreSQL
+  db:
+    image: postgres:15
+    environment:
+      POSTGRES_DB: nombre_de_tu_base  # Nombre de la base de datos
+      POSTGRES_USER: tu_usuario      # Usuario para PostgreSQL
+      POSTGRES_PASSWORD: tu_contraseña  # Contraseña para el usuario
+    ports:
+      - "5432:5432"  # Puerto en el que estará disponible PostgreSQL
+    volumes:
+      - postgres_data:/var/lib/postgresql/data  # Persistencia de datos entre reinicios
+
+  # Servicio para Django
+  web:
+    build: .
+    command: ["python", "manage.py", "runserver", "0.0.0.0:8000"]
+    volumes:
+      - .:/app  # Monta tu directorio actual en el contenedor
+    ports:
+      - "8000:8000"  # Puerto donde Django estará disponible
+    depends_on:
+      - db  # Este servicio depende de la base de datos
+
+volumes:
+  postgres_data:  # Volumen para persistir la base de datos

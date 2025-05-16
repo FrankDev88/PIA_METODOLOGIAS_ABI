@@ -1,0 +1,757 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="zxx">
+<!--<< Header Area >>-->
+
+<head>
+    <!-- ========== Meta Tags ========== -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="gramentheme">
+    <meta name="description" content="Fresheat food & Restaurant Html Template">
+    <!-- ======== Page title ============ -->
+    <title>Fresheat food & Restaurant Html Template</title>
+    <!--<< Favcion >>-->
+    <link rel="shortcut icon" href="{% static 'img/favicon.png' %}">
+    <!--<< Bootstrap min.css' %} >>-->
+    <link rel="stylesheet" href="{% static 'css/bootstrap.min.css' %}">
+    <!--<< All Min Css >>-->
+    <link rel="stylesheet" href="{% static 'css/all.min.css' %}">
+    <!--<< Animate.css' %} >>-->
+    <link rel="stylesheet" href="{% static 'css/animate.css' %}">
+    <!--<< Magnific Popup.css' %} >>-->
+    <link rel="stylesheet" href="{% static 'css/magnific-popup.css' %}">
+    <!--<< MeanMenu.css' %} >>-->
+    <link rel="stylesheet" href="{% static 'css/meanmenu.css' %}">
+    <!--<< Swiper Bundle.css' %} >>-->
+    <link rel="stylesheet" href="{% static 'css/swiper-bundle.min.css' %}">
+    <!--<< Nice Select.css' %} >>-->
+    <link rel="stylesheet" href="{% static 'css/nice-select.css' %}">
+    <!--<< Main.css' %} >>-->
+    <link rel="stylesheet" href="{% static 'css/main.css' %}">
+</head>
+
+<body class="bg-color2">
+
+    <!-- Preloader Start -->
+    <div id="preloader" class="preloader">
+        <div class="animation-preloader">
+            <div class="spinner">
+            </div>
+            <div class="txt-loading">
+                <span data-text-preloader="F" class="letters-loading">
+                    F
+                </span>
+                <span data-text-preloader="R" class="letters-loading">
+                    R
+                </span>
+                <span data-text-preloader="E" class="letters-loading">
+                    E
+                </span>
+                <span data-text-preloader="S" class="letters-loading">
+                    S
+                </span>
+                <span data-text-preloader="H" class="letters-loading">
+                    H
+                </span>
+                <span data-text-preloader="E" class="letters-loading">
+                    E
+                </span>
+                <span data-text-preloader="A" class="letters-loading">
+                    A
+                </span>
+                <span data-text-preloader="T" class="letters-loading">
+                    T
+                </span>
+            </div>
+            <p class="text-center">Loading</p>
+        </div>
+        <div class="loader">
+            <div class="row">
+                <div class="col-3 loader-section section-left">
+                    <div class="bg"></div>
+                </div>
+                <div class="col-3 loader-section section-left">
+                    <div class="bg"></div>
+                </div>
+                <div class="col-3 loader-section section-right">
+                    <div class="bg"></div>
+                </div>
+                <div class="col-3 loader-section section-right">
+                    <div class="bg"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--<< Mouse Cursor Start >>-->
+    <div class="mouse-cursor cursor-outer"></div>
+    <div class="mouse-cursor cursor-inner"></div>
+
+    <!-- Back To Top Start -->
+    <button id="back-top" class="back-to-top">
+        <i class="fa-regular fa-arrow-up"></i>
+    </button>
+
+    <!-- Offcanvas Area Start -->
+    <div class="fix-area">
+        <div class="offcanvas__info">
+            <div class="offcanvas__wrapper">
+                <div class="offcanvas__content">
+                    <div class="offcanvas__top mb-5 d-flex justify-content-between align-items-center">
+                        <div class="offcanvas__logo">
+                            <a href="index.html">
+                                <img src="{% static 'img/logo/logoA.svg' %}" alt="logo-img">
+                            </a>
+                        </div>
+                        <div class="offcanvas__close">
+                            <button>
+                                <i class="fas fa-times"></i>
+                            </button>
+                        </div>
+                    </div>
+                    <p class="text d-none d-lg-block">
+                        This involves interactions between a business and its customers. It's about meeting customers'
+                        needs and resolving their problems. Effective customer service is crucial.
+                    </p>
+                    <div class="offcanvas-gallery-area d-none d-xl-block">
+                        <div class="offcanvas-gallery-items">
+                            <a href="{% static 'img/header/01.jpg' %}" class="offcanvas-image img-popup">
+                                <img src="{% static 'img/header/01.jpg' %}" alt="gallery-img">
+                            </a>
+                            <a href="{% static 'img/header/02.jpg' %}" class="offcanvas-image img-popup">
+                                <img src="{% static 'img/header/02.jpg' %}" alt="gallery-img">
+                            </a>
+                            <a href="{% static 'img/header/03.jpg' %}" class="offcanvas-image img-popup">
+                                <img src="{% static 'img/header/03.jpg' %}" alt="gallery-img">
+                            </a>
+                        </div>
+                        <div class="offcanvas-gallery-items">
+                            <a href="{% static 'img/header/04.jpg' %}" class="offcanvas-image img-popup">
+                                <img src="{% static 'img/header/04.jpg' %}" alt="gallery-img">
+                            </a>
+                            <a href="{% static 'img/header/05.jpg' %}" class="offcanvas-image img-popup">
+                                <img src="{% static 'img/header/05.jpg' %}" alt="gallery-img">
+                            </a>
+                            <a href="{% static 'img/header/06.jpg' %}" class="offcanvas-image img-popup">
+                                <img src="{% static 'img/header/06.jpg' %}" alt="gallery-img">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="mobile-menu fix mb-3"></div>
+                    <div class="offcanvas__contact">
+                        <h4>Contact Info</h4>
+                        <ul>
+                            <li class="d-flex align-items-center">
+                                <div class="offcanvas__contact-icon">
+                                    <i class="fal fa-map-marker-alt"></i>
+                                </div>
+                                <div class="offcanvas__contact-text">
+                                    <a target="_blank" href="#">Main Street, Melbourne, Australia</a>
+                                </div>
+                            </li>
+                            <li class="d-flex align-items-center">
+                                <div class="offcanvas__contact-icon mr-15">
+                                    <i class="fal fa-envelope"></i>
+                                </div>
+                                <div class="offcanvas__contact-text">
+                                    <a href="tel:+013-003-003-9993"><span
+                                            class="mailto:info@enofik.com">info@fresheat.com</span></a>
+                                </div>
+                            </li>
+                            <li class="d-flex align-items-center">
+                                <div class="offcanvas__contact-icon mr-15">
+                                    <i class="fal fa-clock"></i>
+                                </div>
+                                <div class="offcanvas__contact-text">
+                                    <a target="_blank" href="#">Mod-friday, 09am -05pm</a>
+                                </div>
+                            </li>
+                            <li class="d-flex align-items-center">
+                                <div class="offcanvas__contact-icon mr-15">
+                                    <i class="far fa-phone"></i>
+                                </div>
+                                <div class="offcanvas__contact-text">
+                                    <a href="tel:+11002345909">+11002345909</a>
+                                </div>
+                            </li>
+                        </ul>
+                        <div class="header-button mt-4">
+                            <a href="shop.html" class="theme-btn">
+                                <span class="button-content-wrapper d-flex align-items-center justify-content-center">
+                                    <span class="button-icon"><i
+                                            class="fa-sharp fa-regular fa-cart-shopping bg-transparent text-white me-2"></i></span>
+                                    <span class="button-text">ORDER NOW</span>
+                                </span>
+                            </a>
+                        </div>
+                        <div class="social-icon d-flex align-items-center">
+                            <a href="#"><i class="fab fa-facebook-f"></i></a>
+                            <a href="#"><i class="fab fa-twitter"></i></a>
+                            <a href="#"><i class="fab fa-youtube"></i></a>
+                            <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="offcanvas__overlay"></div>
+
+    <!-- Header Section Start -->
+    <header class="header-section">
+        <div class="black-bg"></div>
+        <div class="red-bg"></div>
+        <div class="container-fluid">
+            <div class="main-header-wrapper">
+                <div class="logo-image">
+                    <a href="index.html">
+                        <img src="{% static 'img/logo/logoA.svg' %}" alt="img">
+                    </a>
+                </div>
+                <div class="main-header-items">
+                    <div class="header-top-wrapper">
+                        <span><i class="fa-regular fa-clock"></i> 09:00 am - 06:00 pm</span>
+                        <div class="social-icon d-flex align-items-center">
+                            <span>Follow Us:</span>
+                            <a href="#"><i class="fab fa-facebook-f"></i></a>
+                            <a href="#"><i class="fab fa-twitter"></i></a>
+                            <a href="#"><i class="fab fa-youtube"></i></a>
+                            <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                        </div>
+                    </div>
+                    <div id="header-sticky" class="header-1">
+                        <div class="mega-menu-wrapper">
+                            <div class="header-main">
+                                <div class="logo">
+                                    <a href="index.html" class="header-logo">
+                                        <img src="{% static 'img/logo/logoA.svg' %}" alt="logo-img">
+                                    </a>
+                                </div>
+                                
+                                <div class="header-left">
+                                    <div class="mean__menu-wrapper">
+                                        <div class="main-menu">
+                                            <nav id="mobile-menu">
+                                                <ul>
+
+                                                    <li>
+                                                    
+                                                        <a href="#">
+                                                             .
+                                                        </a>
+                                                        <ul class="submenu">
+
+                                                        </ul>
+
+                                                
+                                                
+                                                    </ul>
+                                            </nav>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <div class="header-right d-flex justify-content-end align-items-center">
+                                        <div class="header__cart position-relative">
+                                        <a href="{% url 'cart_detail' %}"
+                                            data-count="{{ cart_items_count }}"
+                                            class="{% if cart_items_count == 0 %}empty-cart{% endif %}">
+                                            <i class="fa-sharp fa-regular fa-cart-shopping"></i>
+                                        </a>
+                                        </div>
+
+                                    </div>
+                                </div>
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Search Area Start -->
+    <div class="search-wrap">
+        <div class="search-inner">
+            <i class="fas fa-times search-close" id="search-close"></i>
+            <div class="search-cell">
+                <form method="get">
+                    <div class="search-field-holder">
+                        <input type="search" class="main-search-input" placeholder="Search...">
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- Banner Section   S T A R T -->
+    <section class="banner-section fix">
+        <div class="slider-area">
+            <div class="swiper banner-slider">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <div class="banner-wrapper style1 bg-img">
+                            <div class="shape1_1 d-none d-xxl-block" data-animation="slideInLeft" data-duration="2s"
+                                data-delay=".3s"><img src="{% static 'img/shape/bannerShape1_1.svg' %}" alt="shape"></div>
+                            <div class="shape1_2 d-none d-xxl-block" data-animation="slideInLeft" data-duration="2s"
+                                data-delay=".3s"><img src="{% static 'img/shape/bannerShape1_2.svg' %}" alt="shape"></div>
+                            <div class="shape1_3 d-none d-xxl-block" data-animation="slideInLeft" data-duration="3s"
+                                data-delay="2s"><img src="{% static 'img/shape/bannerShape1_3.svg' %}" alt="shape"></div>
+                            <div class="shape1_4 d-none d-xxl-block" data-animation="slideInLeft" data-duration="2s"
+                                data-delay=".3s"><img src="{% static 'img/shape/bannerShape1_4.svg' %}" alt="shape"></div>
+                            <div class="shape1_5 d-none d-xxl-block" data-animation="slideInLeft" data-duration="2s"
+                                data-delay=".3s"><img src="{% static 'img/shape/bannerShape1_5.svg' %}" alt="shape"></div>
+                            <div class="shape1_6 d-none d-xxl-block cir36"><img
+                                    src="{% static 'img/shape/bannerShape1_6.svg' %}" alt="shape"></div>
+                            <div class="overlay"></div>
+                            <div class="banner-container">
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-12 col-xxl-6">
+                                            <div class="banner-title-area">
+                                                <div class="banner-style1">
+                                                    <div class="section-title">
+                                                        <h6 class="sub-title" data-animation="slideInRight"
+                                                            data-duration="2s" data-delay=".3s"> WELCOME JAIBITA </h6>
+                                                        <h1 class="title" data-animation="slideInRight"
+                                                            data-duration="2s" data-delay=".5s">
+                                                             JAIBITA SEAFOOD
+                                                        </h1>
+
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-12 col-xl-6 d-none d-xxl-block">
+                                            <div class="banner-thumb-area" data-tilt data-animation="slideInRight"
+                                                data-duration="2s" data-delay=".9s">
+                                                <img src="{% static 'img/banner/bannerThumb1_1.png' %}" alt="shape">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="banner-wrapper style1 bg-img">
+                            <div class="shape1_1 d-none d-xxl-block" data-animation="slideInLeft" data-duration="2s"
+                                data-delay=".3s"><img src="{% static 'img/shape/bannerShape1_1.svg' %}" alt="shape"></div>
+                            <div class="shape1_2 d-none d-xxl-block" data-animation="slideInLeft" data-duration="2s"
+                                data-delay=".3s"><img src="{% static 'img/shape/bannerShape1_2.svg' %}" alt="shape"></div>
+                            <div class="shape1_3 d-none d-xxl-block" data-animation="slideInLeft" data-duration="3s"
+                                data-delay="2s"><img src="{% static 'img/shape/bannerShape1_3.svg' %}" alt="shape"></div>
+                            <div class="shape1_4 d-none d-xxl-block float-bob-x" data-animation="slideInLeft"
+                                data-duration="2s" data-delay=".3s"><img src="{% static 'img/shape/bannerShape1_4.svg' %}"
+                                    alt="shape"></div>
+                            <div class="shape1_5 d-none d-xxl-block" data-animation="slideInLeft" data-duration="2s"
+                                data-delay=".3s"><img src="{% static 'img/shape/bannerShape1_5.svg' %}" alt="shape"></div>
+                            <div class="shape1_6 d-none d-xxl-block cir36"><img
+                                    src="{% static 'img/shape/bannerShape1_6.svg' %}" alt="shape"></div>
+                            <div class="overlay"></div>
+                            <div class="banner-container">
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-12 col-xxl-6">
+                                            <div class="banner-title-area">
+                                                <div class="banner-style1">
+                                                    <div class="section-title">
+                                                        <h6 class="sub-title" data-animation="slideInRight"
+                                                            data-duration="2s" data-delay=".3s"> WELCOME JAIBITA </h6>
+                                                        <h1 class="title" data-animation="slideInRight"
+                                                            data-duration="2s" data-delay=".5s">
+                                                             JAIBITA SEAFOOD
+                                                        </h1>
+
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-12 col-xl-6 d-none d-xxl-block">
+                                            <div class="banner-thumb-area" data-tilt data-animation="slideInRight"
+                                                data-duration="2s" data-delay=".9s">
+                                                <img src="{% static 'img/banner/bannerThumb1_2.png' %}" alt="shape">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="banner-wrapper style1 bg-img">
+                            <div class="shape1_1 d-none d-xxl-block" data-animation="slideInLeft" data-duration="2s"
+                                data-delay=".3s"><img src="{% static 'img/shape/bannerShape1_1.svg' %}" alt="shape"></div>
+                            <div class="shape1_2 d-none d-xxl-block" data-animation="slideInLeft" data-duration="2s"
+                                data-delay=".3s"><img src="{% static 'img/shape/bannerShape1_2.svg' %}" alt="shape"></div>
+                            <div class="shape1_3 d-none d-xxl-block" data-animation="slideInLeft" data-duration="3s"
+                                data-delay="2s"><img src="{% static 'img/shape/bannerShape1_3.svg' %}" alt="shape"></div>
+                            <div class="shape1_4 d-none d-xxl-block" data-animation="slideInLeft" data-duration="2s"
+                                data-delay=".3s"><img src="{% static 'img/shape/bannerShape1_4.svg' %}" alt="shape"></div>
+                            <div class="shape1_5 d-none d-xxl-block" data-animation="slideInLeft" data-duration="2s"
+                                data-delay=".3s"><img src="{% static 'img/shape/bannerShape1_5.svg' %}" alt="shape"></div>
+                            <div class="shape1_6 d-none d-xxl-block cir36"><img
+                                    src="{% static 'img/shape/bannerShape1_6.svg' %}" alt="shape"></div>
+                            <div class="overlay"></div>
+                            <div class="banner-container">
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-12 col-xxl-6">
+                                            <div class="banner-title-area">
+                                                <div class="banner-style1">
+                                                    <div class="section-title">
+                                                        <h6 class="sub-title" data-animation="slideInRight"
+                                                            data-duration="2s" data-delay=".3s"> WELCOME JAIBITA </h6>
+                                                        <h1 class="title" data-animation="slideInRight"
+                                                            data-duration="2s" data-delay=".5s">
+                                                             JAIBITA SEAFOOD
+                                                        </h1>
+
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-12 col-xl-6 d-none d-xxl-block">
+                                            <div class="banner-thumb-area" data-tilt data-animation="slideInRight"
+                                                data-duration="2s" data-delay=".9s">
+                                                <img src="{% static 'img/banner/bannerThumb1_3.png' %}" alt="shape">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="arrow-prev"><img src="{% static 'img/icon/arrowPrev.svg' %}" alt="Icon"></div>
+                <div class="arrow-next"><img src="{% static 'img/icon/arrowNext.svg' %}" alt="Icon"></div>
+                <div class="pagination-class swiper-pagination"></div>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- Best Food Items Section   S T A R T -->
+    <!-- Best Food Items Section START -->
+    <div class="swiper bestFoodItems-slider">
+        <div class="swiper-wrapper">
+            {% for item in food_items %}
+            <div class="swiper-slide">
+                <div class="single-food-items position-relative">
+                    <div class="item-thumb position-relative">
+                        {% if item.image %}
+                        <img src="{{ item.image.url }}" alt="{{ item.name }}" style="width:158px; height:158px; object-fit:cover;">
+                        {% else %}
+                        <img src="{% static 'img/food-items/default.png' %}" alt="No image" style="width:158px; height:158px; object-fit:cover;">
+                        {% endif %}
+
+                        <!-- Botón circular rojo con no-swipe -->
+                        <button 
+                            class="btn btn-danger rounded-circle p-0 d-flex align-items-center justify-content-center add-to-cart-btn no-swipe position-absolute"
+                            style="top: 8px; right: 8px; width: 30px; height: 30px; font-size: 18px;"
+                            data-url="{% url 'cart_add' item.id %}">
+                            +
+                        </button>
+
+                        <div class="circle-shape">
+                            <img class="cir36" src="{% static 'img/food-items/circleShape.png' %}" alt="shape">
+                        </div>
+                    </div>
+
+                    <div class="item-content">
+                        <a href="menu.html">
+                            <h3>{{ item.name }}</h3>
+                        </a>
+                        <div class="text">{{ item.description|default:"Delicious food!" }}</div>
+                        <h6>${{ item.price }}</h6>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+
+        <div class="bestFoodItems-pagination"></div>
+    </div>
+
+
+
+
+
+    <!-- Footer Section    S T A R T -->
+    <footer class="footer-section bg-title fix">
+        <div class="footer-widgets-wrapper">
+            <div class="shape1 float-bob-y d-none d-xxl-block"><img src="{% static 'img/shape/footerShape1_1.png' %}"
+                    alt="shape"></div>
+            <div class="shape2 d-none d-xxl-block"><img src="{% static 'img/shape/footerShape1_2.png' %}" alt="shape"></div>
+            <div class="shape3 d-none d-xxl-block"><img src="{% static 'img/shape/footerShape1_3.png' %}" alt="shape"></div>
+            <div class="shape4  d-none d-xxl-block"><img src="{% static 'img/shape/footerShape1_4.png' %}" alt="shape"></div>
+            <div class="container">
+                <div class="footer-top">
+                    <div class="row gy-4">
+                        <div class="col-lg-4">
+                            <div class="fancy-box">
+                                <div class="item1"><i class="fa-solid fa-location-dot"></i></div>
+                                <div class="item2">
+                                    <h6>address</h6>
+                                    <p>4648 Rocky Road Philadelphia </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 d-flex justify-content-start justify-content-lg-end">
+                            <div class="fancy-box">
+                                <div class="item1"><i class="fa-solid fa-envelope"></i></div>
+                                <div class="item2">
+                                    <h6>send email</h6>
+                                    <p>info@exmple.com</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 d-flex justify-content-start justify-content-lg-end">
+                            <div class="fancy-box">
+                                <div class="item1"><i class="fa-regular fa-phone-volume"></i></div>
+                                <div class="item2">
+                                    <h6>call emergency</h6>
+                                    <p>+88 0123 654 99</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".2s">
+                        <div class="single-footer-widget">
+                            <div class="widget-head">
+                                <a href="index.html">
+                                    <img src="{% static 'img/logo/logoA.svg' %}" alt="logo-img">
+                                </a>
+                            </div>
+                            <div class="footer-content">
+                                <p>
+                                        JAIBITA ES UN RESTAURANTE DE MARISCOS CONOCIDO EN NUEVO LEON
+                                </p>
+                                <div class="social-icon d-flex align-items-center">
+                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                    <a href="#"><i class="fa-brands fa-linkedin-in"></i></a>
+                                    <a href="#"><i class="fa-brands fa-youtube"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-xl-3 col-lg-4 col-md-6 ps-xl-5 wow fadeInUp" data-wow-delay=".4s">
+                        <div class="single-footer-widget">
+                            <div class="widget-head">
+                                <h3>Contact Us</h3>
+                            </div>
+                            <ul class="list-area">
+                                <li class="mb-2">
+                                    Monday – Friday: <span class="text-theme-color2"> 8am – 4pm </span>
+                                </li>
+                                <li>
+                                    Saturday: <span class="text-theme-color2"> 8am – 12am </span>
+                                </li>
+                            </ul>
+                            <form action="#" class="mt-4">
+                                <div class="form-control">
+                                    <input class="email" type="email" placeholder="Your email address">
+                                    <button type="submit" class="submit-btn"><i
+                                            class="fa-solid fa-arrow-right-long"></i></button>
+                                </div>
+                                <div class="form-control style2 mt-3">
+                                    <input id="checkbox" name="checkbox" type="checkbox">
+                                    <label for="checkbox">I agree to the <a href="contact.html">Privacy Policy.
+                                        </a></label>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <div class="container">
+                <div class="footer-wrapper d-flex align-items-center justify-content-between">
+                    <p class="wow fadeInLeft" data-wow-delay=".3s">
+                        © All Copyright 2024 by <a href="index.html">Restaurant Jaibita</a>
+                    </p>
+                    <ul class="brand-logo wow fadeInRight" data-wow-delay=".5s">
+                        
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+
+
+
+    <!--<< All JS Plugins >>-->
+    <script src="{% static 'js/jquery-3.7.1.min.js' %}"></script>
+    <!--<< Bootstrap Js >>-->
+    <script src="{% static 'js/bootstrap.bundle.min.js' %}"></script>
+    <!--<< Waypoints Js >>-->
+    <script src="{% static 'js/jquery.waypoints.js' %}"></script>
+    <!--<< Counterup Js >>-->
+    <script src="{% static 'js/jquery.counterup.min.js' %}"></script>
+    <!--<< Viewport Js >>-->
+    <script src="{% static 'js/viewport.jquery.js' %}"></script>
+    <!--<< Magnific popup Js >>-->
+    <script src="{% static 'js/magnific-popup.min.js' %}"></script>
+    <!--<< Tilt Js >>-->
+    <script src="{% static 'js/tilt.min.js' %}"></script>
+    <!--<< Swiper Slider Js >>-->
+    <script src="{% static 'js/swiper-bundle.min.js' %}"></script>
+    <!--<< MeanMenu Js >>-->
+    <script src="{% static 'js/jquery.meanmenu.min.js' %}"></script>
+    <!--<< Wow Animation Js >>-->
+    <script src="{% static 'js/wow.min.js' %}"></script>
+    <!--<< Nice Select Js >>-->
+    <script src="{% static 'js/nice-select.min.js' %}"></script>
+    <!--<< Main.js' %} >>-->
+    <script src="{% static 'js/main.js' %}"></script>
+</body>
+<!-- Swiper JS -->
+<script src="{% static 'js/swiper-bundle.min.js' %}"></script>
+<!-- Animate.css (si deseas animaciones) -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+
+<!-- Inicialización de Swiper con velocidad y no-swiping -->
+<script>
+  const swiper = new Swiper('.bestFoodItems-slider', {
+    slidesPerView: 4,
+    spaceBetween: 30,
+    loop: true,
+    speed: 1000,               // 1 segundo por transición
+    slideToClickedSlide: false,// no cambia de slide al hacer clic fuera de los botones
+    noSwiping: true,           // activa la clase de no-swiping
+    noSwipingClass: 'no-swipe',
+    pagination: {
+      el: '.bestFoodItems-pagination',
+      clickable: true,
+    },
+    breakpoints: {
+      1024: { slidesPerView: 4 },
+      768:  { slidesPerView: 2 },
+      480:  { slidesPerView: 1 }
+    }
+  });
+</script>
+
+<!-- AJAX carrito dinámico con event delegation -->
+<script>
+  // Función para leer CSRF desde cookie
+  function getCookie(name) {
+    let value = null;
+    if (document.cookie && document.cookie !== '') {
+      document.cookie.split(';').forEach(cookie => {
+        cookie = cookie.trim();
+        if (cookie.startsWith(name + '=')) {
+          value = decodeURIComponent(cookie.substring(name.length + 1));
+        }
+      });
+    }
+    return value;
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+    const csrftoken = getCookie('csrftoken');
+
+    // Delegación de eventos para .add-to-cart-btn
+    document.body.addEventListener('click', e => {
+      const btn = e.target.closest('.add-to-cart-btn');
+      if (!btn) return;
+      e.preventDefault();
+
+      const url = btn.dataset.url;
+      fetch(url, {
+        method: 'POST',
+        headers: {
+          'X-CSRFToken': csrftoken,
+          'X-Requested-With': 'XMLHttpRequest'
+        },
+        credentials: 'same-origin'
+      })
+      .then(resp => {
+        if (!resp.ok) throw new Error('HTTP ' + resp.status);
+        return resp.json();
+      })
+      .then(data => {
+        const badge = document.querySelector('#cart-counter');
+        badge.textContent = data.cart_items_count;
+        badge.classList.remove('d-none');
+        badge.classList.add('animate__animated','animate__bounceIn');
+        setTimeout(() => {
+          badge.classList.remove('animate__animated','animate__bounceIn');
+        }, 800);
+      })
+      .catch(err => console.error('Error AJAX carrito:', err));
+    });
+  });
+</script>
+
+
+<!-- Swiper JS y Animate.css como antes… -->
+
+<script>
+  function getCookie(name) {
+    let value = null;
+    if (document.cookie) {
+      document.cookie.split(';').forEach(cookie => {
+        cookie = cookie.trim();
+        if (cookie.startsWith(name + '=')) {
+          value = decodeURIComponent(cookie.substring(name.length + 1));
+        }
+      });
+    }
+    return value;
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+    const csrftoken = getCookie('csrftoken');
+
+    document.body.addEventListener('click', e => {
+      const btn = e.target.closest('.add-to-cart-btn');
+      if (!btn) return;
+      e.preventDefault();
+
+      fetch(btn.dataset.url, {
+        method: 'POST',
+        headers: {
+          'X-CSRFToken': csrftoken,
+          'X-Requested-With': 'XMLHttpRequest'
+        },
+        credentials: 'same-origin'
+      })
+      .then(resp => resp.ok ? resp.json() : Promise.reject(resp.status))
+      .then(data => {
+        const link = document.querySelector('.header__cart > a');
+        link.setAttribute('data-count', data.cart_items_count);
+
+        if (data.cart_items_count === 0) {
+          link.classList.add('empty-cart');
+        } else {
+          link.classList.remove('empty-cart');
+        }
+
+        // Efecto opcional
+        link.classList.add('animate__animated','animate__bounceIn');
+        setTimeout(() => {
+          link.classList.remove('animate__animated','animate__bounceIn');
+        }, 800);
+      })
+      .catch(err => console.error('Error AJAX carrito:', err));
+    });
+  });
+</script>
+
+
+</html>
