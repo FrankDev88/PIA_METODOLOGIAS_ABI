@@ -28,7 +28,12 @@ SECRET_KEY = "django-insecure-mybzt79la@twtwvv700b&jsc2cifqmp%*l4=_vuqx6cs+=ufw^
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'pia-metodologias-abi.onrender.com']
+ALLOWED_HOSTS = [
+    'localhost',
+    '127.0.0.1',
+    'pia-metodologias-abi.onrender.com',
+    '.railway.app',  # permite cualquier subdominio de Railway
+]
 
 
 # Application definition
