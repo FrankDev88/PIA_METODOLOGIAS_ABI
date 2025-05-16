@@ -29,10 +29,9 @@ SECRET_KEY = "django-insecure-mybzt79la@twtwvv700b&jsc2cifqmp%*l4=_vuqx6cs+=ufw^
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'localhost',
-    '127.0.0.1',
-    'pia-metodologias-abi.onrender.com',
-    '.railway.app',  # permite cualquier subdominio de Railway
+    "localhost",
+    "127.0.0.1",
+    "piametodologiasabi-production.up.railway.app"
 ]
 
 
@@ -115,6 +114,10 @@ DATABASES = {
         default=os.getenv('DATABASE_URL')
     )
 }
+
+CSRF_TRUSTED_ORIGINS = [
+    "https://piametodologiasabi-production.up.railway.app"
+]
 
 
 # Password validation
